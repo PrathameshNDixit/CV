@@ -45,9 +45,11 @@ img{
 	object-fit:contain;
 
 }
-img:hover{
-    background-color:gold;
+.zoom:hover {
+
+  transform: scale(1.5);
 }
+	
 	  
 	  
 
