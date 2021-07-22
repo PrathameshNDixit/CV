@@ -45,7 +45,7 @@ img{
 	object-fit:contain;
 
 }
-.zoom:hover {
+.img:hover {
 
   transform: scale(1.5);
 }
